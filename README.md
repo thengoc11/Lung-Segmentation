@@ -2,26 +2,29 @@
 
 # LUNG SEGMENTATION
 </div>
-
+## Requirements
+All the dependencies can be installed using the provided requirements.txt file.
 ## Installation
-
-#### Pip
-
 ```bash
-# clone project
-git clone https://github.com/thengoc11/Lung-Segmentation
-cd Lung-Segmentation
+1. Clone the repository:
+   ```
+    git clone https://github.com/thengoc11/Lung-Segmentation
+   ```
+2. Change the directory:
+  ```
+    cd Lung-Segmentation
+  ```
+3. Create a conda environment and install dependencies:
 
-# [OPTIONAL] create conda environment
-conda create -n lung python=3.10
-conda activate lung
+   ```
+    conda create -n lung python=3.10
+   ```
 
-# install pytorch according to instructions
-# https://pytorch.org/get-started/
+4. Activate the conda environment:
 
-# install requirements
-pip install -r requirements.txt
-```
+   ```
+     conda activate lung
+   ```
 
 ## Download LIDC Dataset
 ```bash
