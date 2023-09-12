@@ -7,19 +7,19 @@ All the dependencies can be installed using the provided requirements.txt file.
 ## Installation
 1. Clone the repository:
    ```
-    git clone https://github.com/thengoc11/Lung-Segmentation
+   git clone https://github.com/thengoc11/Lung-Segmentation
    ```
 2. Change the directory:
-  ```
-      cd Lung-Segmentation
-  ```
+   ```
+   cd Lung-Segmentation
+   ```
 3. Create a conda environment and install dependencies:
    ```
-    conda create -n lung python=3.10
+   conda create -n lung python=3.10
    ```
 4. Activate the conda environment:
    ```
-     conda activate lung
+   conda activate lung
    ```
 ## Dataset
 1. Change the directory:
