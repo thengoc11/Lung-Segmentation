@@ -23,8 +23,9 @@ conda activate lung
 pip install -r requirements.txt
 ```
 
-## Download Data
+## Download LIDC Dataset
 ```bash
+mkdir data
 cd data
 ```
 
