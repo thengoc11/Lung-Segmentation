@@ -9,7 +9,7 @@
 
 ```bash
 # clone project
-git clone https://github.com/huynhspm/Lung-Segmentation
+git clone https://github.com/thengoc11/Lung-Segmentation
 cd Lung-Segmentation
 
 # [OPTIONAL] create conda environment
