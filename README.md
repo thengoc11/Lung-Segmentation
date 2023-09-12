@@ -14,17 +14,13 @@ All the dependencies can be installed using the provided requirements.txt file.
     cd Lung-Segmentation
   ```
 3. Create a conda environment and install dependencies:
-
    ```
     conda create -n lung python=3.10
    ```
-
 4. Activate the conda environment:
-
    ```
      conda activate lung
    ```
-
 ## Dataset
 1. Change the directory:
 ```
