@@ -36,7 +36,7 @@ All the dependencies can be installed using the provided requirements.txt file.
 
 ## How to run
 
-Train model with default configuration
+### Train model with default configuration
 
 ```bash
 # before training, set env WANDB_API_KEY to log with wandb logger
@@ -47,3 +47,5 @@ python src/train.py trainer=gpu logger=wandb
 
 # train on multi GPU
 python src/train.py trainer=ddp trainer.devices=4 logger=wandb
+
+
