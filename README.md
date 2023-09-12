@@ -1,6 +1,6 @@
 
 # LUNG SEGMENTATION
-Welcome to the LUNG SEGMENTATION repository! This project provides an easy-to-use framework of the segmentation model for Medical Image, allowing you to  effectively train/evaluate.
+Welcome to the LUNG SEGMENTATION repository. This project provides an easy-to-use framework of the segmentation model for Medical Image, allowing you to  effectively train/evaluate.
 
 ## Requirements
 All the dependencies can be installed using the provided requirements.txt file.
