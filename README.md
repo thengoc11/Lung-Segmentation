@@ -2,6 +2,7 @@
 
 # LUNG SEGMENTATION
 </div>
+
 ## Requirements
 All the dependencies can be installed using the provided requirements.txt file.
 ## Installation
