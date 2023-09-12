@@ -5,7 +5,6 @@ Welcome to the LUNG SEGMENTATION repository. This project provides an easy-to-us
 ## Requirements
 All the dependencies can be installed using the provided requirements.txt file.
 ## Installation
-```bash
 1. Clone the repository:
    ```
     git clone https://github.com/thengoc11/Lung-Segmentation
@@ -27,17 +26,13 @@ All the dependencies can be installed using the provided requirements.txt file.
    ```
 
 ## Download LIDC Dataset
-```bash
 mkdir data
 cd data
-```
 
 [LIDC data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254&fbclid=IwAR1vDkrpq0IJN8KwPT2Fft1GJ4bFPiMqXp4p08eEfOaUYofS-88pnNF_Z7g)
 
-```bash
 # Data Preprocessing with repository
 git clone https://github.com/jaeho3690 LIDC-IDRI-Preprocessing
-```
 
 
 ## How to run
