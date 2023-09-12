@@ -11,7 +11,7 @@ All the dependencies can be installed using the provided requirements.txt file.
    ```
 2. Change the directory:
   ```
-    cd Lung-Segmentation
+      cd Lung-Segmentation
   ```
 3. Create a conda environment and install dependencies:
    ```
@@ -28,9 +28,7 @@ All the dependencies can be installed using the provided requirements.txt file.
    cd data
 ```
 2. Download LIDC Dataset:
-   ```
    [LIDC data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254&fbclid=IwAR1vDkrpq0IJN8KwPT2Fft1GJ4bFPiMqXp4p08eEfOaUYofS-88pnNF_Z7g)
-   ```
 # Data Preprocessing with repository
 git clone https://github.com/jaeho3690 LIDC-IDRI-Preprocessing
 
